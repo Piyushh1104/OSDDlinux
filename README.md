@@ -28,9 +28,8 @@ Deepak Singla, Sandeep Kumar Dhanda, Jagat Singh Chauhan, Anshu Bhardwaj, Samir 
 
 **Journal:** Current Topics in Medicinal Chemistry (2013)
 
-**DOI:** https://doi.org/10.2174/1568026611313100002
+**DOI:** https://doi.org/10.2174/1568026611313100005
 
-Source Paper: :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -325,6 +324,3 @@ Open Access Review Article
 
 ---
 
-## Source
-
-Generated from the uploaded review paper on open-source drug discovery tools. :contentReference[oaicite:1]{index=1}
